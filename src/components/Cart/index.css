@@ -1,0 +1,8 @@
+.cart-container {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+.cart-img {
+  align-self: center;
+}

@@ -1,0 +1,8 @@
+.products-container {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+.products-img {
+  align-self: center;
+}
